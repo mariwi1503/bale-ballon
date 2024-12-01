@@ -39,10 +39,10 @@ function GallerySection() {
   return (
     <section
       id="gallery"
-      className="bg-gradient-to-r from-purple-100 to-yellow-100 px-5 md:px-10 flex flex-col py-10 items-center h-screen scroll-mt-14 md:scroll-mt-20"
+      className="bg-gradient-to-r from-purple-100 to-yellow-100 px-5 md:px-10 flex flex-col py-10 items-center scroll-mt-14 md:scroll-mt-20"
     >
       <div className="flex flex-col items-center mb-5 gap-2">
-        <h2 className="text-3xl md:text-5xl font-bold text-gray-800">Galeri</h2>
+        <h2 className="text-2xl md:text-5xl font-bold text-gray-800">Galeri</h2>
         <div className="h-1 w-20 md:w-32 bg-orangeCustome rounded-lg"></div>
       </div>
       <div className="p-4 grid grid-cols-3 md:grid-cols-4 gap-4">

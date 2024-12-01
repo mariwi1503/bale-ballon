@@ -15,7 +15,7 @@ function TestimonialsSection() {
     >
       <div className="container mx-auto px-6 md:px-12">
         <div className="flex flex-col items-center mb-5 gap-2">
-          <h2 className="text-3xl md:text-5xl font-bold text-gray-800">
+          <h2 className="text-2xl md:text-5xl font-bold text-gray-800">
             Testimoni
           </h2>
           <div className="h-1 w-20 md:w-32 bg-orangeCustome rounded-lg"></div>

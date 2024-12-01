@@ -12,7 +12,7 @@ function AboutSection() {
         <div className="w-full flex flex-col items-center justify-center">
           <div className="md:w-2/3">
             <div className="flex flex-col items-center mb-10 gap-2">
-              <h2 className="text-3xl md:text-5xl font-bold text-gray-800">
+              <h2 className="text-2xl md:text-5xl font-bold text-gray-800">
                 Tentang Kami
               </h2>
               <div className="h-1 w-40 md:w-56 bg-orangeCustome rounded-lg"></div>

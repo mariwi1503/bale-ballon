@@ -22,7 +22,7 @@ function FAQSection() {
       className="bg-gradient-to-r from-blue-100 to-green-100 px-5 md:px-10 flex flex-col py-10 items-center scroll-mt-14 md:scroll-mt-20"
     >
       <div className="container mx-auto px-6 md:px-12">
-        <h2 className="text-3xl font-bold text-center text-gray-800 mb-8">
+        <h2 className="text-2xl font-bold text-center text-gray-800 mb-8">
           FAQ
         </h2>
         <div className="space-y-6">
