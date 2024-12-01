@@ -24,7 +24,7 @@ function CoverPage() {
           ceria.
         </p>
         <Link to="/home">
-          <button className="px-6 py-3 bg-orange-400 text-lg font-semibold rounded-full hover:bg-orange-300 transition duration-300 mb-10">
+          <button className="px-6 py-3 bg-orange-400 text-lg font-semibold rounded-full hover:bg-orange-300 transition duration-300 mb-16">
             Lihat Detail
           </button>
         </Link>
